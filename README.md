@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Chairul Iqbal Maulana</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Fadhil Akbar</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Nashta-Net**
+- 🔭 I’m currently working on **Lembaga National Single Window**
 
 - 🌱 I’m currently learning **NextJS 14**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,express,typescript,javascript etc.**
 
-- 📫 How to reach me **chairuliqbalmaulana@gmail.com**
+- 📫 How to reach me **muhammadfadhilakbar10@gmail.com**
 
 - 📄 Know about my experiences [-](-)
 
